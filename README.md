@@ -4,7 +4,7 @@
 
 MealMatch is an app designed for foodies and fitness enthusiasts alike! If you want to know what it takes to burn off the calories you just ate by doing simple exercise activities, then this app is a match for you. Users search for recipes by cuisine and are provided with a recipe that contains ingredients, cooking instructions and caloric info, as well as the activity duration needed to burn that same amount of calories. 
 
-- [Deployed Application](https://jenho-webdev.github.io/MealMatch/)
+- [Deployed Application](https://dsoda86.github.io/MealMatch/)
 - [Repo Wiki](https://github.com/jenho-webdev/MealMatch/wiki)
 
 ## Table of Contents
